@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EVA1_13_CUADROS_DIALOGO"

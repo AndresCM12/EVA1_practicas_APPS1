@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EVA1_8_EVENTOS_RECURSOS</string>
+
+    <string name="rd_btn_es">Español</string>
+    <string name="rd_btn_in">Inglés</string>
+
+    <string name="txt_vw_nom">Nombre: </string>
+    <string name="edt_txt_nom">Introduce tu(s) nombre(s)</string>
+
+    <string name="txt_vw_ape">Apellido: </string>
+    <string name="edt_txt_ape">Introduce tu(s) apellido(s)</string>
+
+    <string name="rd_btn_es_en">Spanish</string>
+    <string name="rd_btn_in_en">English</string>
+
+    <string name="txt_vw_nom_en">Name: </string>
+    <string name="edt_txt_nom_en">Your first name</string>
+
+    <string name="txt_vw_ape_en">Last name: </string>
+    <string name="edt_txt_ape_en">Your last name</string>
+</resources>
